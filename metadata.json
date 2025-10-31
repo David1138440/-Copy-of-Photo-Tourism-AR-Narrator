@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Photo Tourism AR Narrator",
+  "description": "An application that allows users to upload a photo of a landmark, which the AI then identifies, researches its history using Google Search, and provides an AR-style narrated audio clip about it.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
